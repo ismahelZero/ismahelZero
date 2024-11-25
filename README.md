@@ -1,5 +1,4 @@
 # Ismahel
-[![Wakatime](https://wakatime.com/badge/user/b1fd15f4-70d4-403c-9a20-e5484e19434a.svg)](https://wakatime.com/@b1fd15f4-70d4-403c-9a20-e5484e19434a)
 
 ## About Me 👨‍💻
 Front-End Developer passionate about creating efficient and user-friendly web applications. Currently working on the Arbela project at RIGT, where I develop comprehensive customer-side, admin, and seller-side modules. I love turning complex problems into simple, beautiful, and intuitive solutions.
