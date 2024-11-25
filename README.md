@@ -17,31 +17,14 @@ const skills = {
 }
 ```
 
-### 🎓 Education
-- Bachelor's degree in Computer Science, University of Salahaddin (2020 - 2024)
-- Summer Training at Shanghai International Studies University (2023)
-
 ### 💼 Professional Experience
 #### Front-End Developer at RIGT (May 2024 - Present)
 - Developing the Arbela project's front-end architecture
 - Implementing customer-side, admin, and seller-side modules
 - Working with multiple programming languages and frameworks
 - Maintaining high-quality code under challenging project timelines
-
-### Previous Roles:
-- Administrative Officer at Dlopay Baran Company (2022 - 2023)
 - Web Developer Internship at RIGT (2023)
-- Zankoline Forms Experience at College of Science (2021 - 2023)
-
-
-### 🏆 Certifications & Achievements
-- Certification in C++ Programming
-- HTML5 & CSS Course Certification
-- SQL Programming Course Certification
-- RAPID API Challenge Participation Certificate (2021)
-- Raz Event Appreciation Certificate by Radoz Organization
-- 3rd and 4th Festival CSIT Appreciation Certificate
-- Upper Intermediate English Language Certification
+- Front-End Developer at RIGT (2024 - present)
 
 ### 🌍 Languages
 - Kurdish (Native)
