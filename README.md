@@ -1,4 +1,7 @@
 # Ismahel
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2016%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
 ## About Me 👨‍💻
 Front-End Developer passionate about creating efficient and user-friendly web applications. Currently working on the Arbela project at RIGT, where I develop comprehensive customer-side, admin, and seller-side modules. I love turning complex problems into simple, beautiful, and intuitive solutions.
@@ -48,7 +51,7 @@ const skills = {
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismahel-zero-1053b4228)
 
-### 📊 Weekly Development Breakdown
+### 📊 Development Breakdown
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2016%20mins-blue)
 
