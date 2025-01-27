@@ -1,18 +1,55 @@
-# Ismahel
+# Hello, I'm ISMAHEL 👋 
+![GitHub followers](https://img.shields.io/github/followers/ismahelZero) 
 
 ## About Me 👨‍💻
 Front-End Developer passionate about creating efficient and user-friendly web applications. Currently working on the Arbela project at RIGT, where I develop comprehensive customer-side, admin, and seller-side modules. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-### 🛠️ Technical Skills
-```javascript
-const skills = {
-    languages: ['JavaScript', 'TypeScript', 'C++', 'C#', 'PHP'],
-    frontend: ['Vue.js', 'Nuxt.js', 'React', 'HTML', 'CSS', 'Vuetify'],
-    database: ['MySQL'],
-    tools: ['Git', 'GitHub', 'Visual Studio', 'WebStorm', 'Microsoft Office'],
-    other: ['MATLAB', 'Problem Solving', 'Data Entry', 'Windows', 'Reporting']
-}
-```
+## 💼 Skill Set
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/ismahelZero">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Framework
+<a href="https://github.com/ismahelZero">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,react&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/ismahelZero">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,webstorm,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+
+## 📈 GitHub Stats
+<p align="center">
+    <a href="https://github.com/ismahelZero">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ismahelZero&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ismahelZero&langs_count=12&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ismahelZero">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ismahelZero&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
+
+<br>
 
 ### 💼 Professional Experience
 #### Front-End Developer at RIGT (May 2024 - Present)
@@ -27,9 +64,6 @@ const skills = {
 - Kurdish (Native)
 - English (Upper Intermediate)
 - Arabic (Elementary)
-
-### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismahel-zero-1053b4228)
 
 ### 📊 Development Breakdown
 <!--START_SECTION:waka-->
@@ -94,4 +128,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-⭐️ From [ismahel](https://github.com/ismahelZero)
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismahel-zero-1053b4228)
+[![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&color=EA4335&logo=gmail&logoColor=white)](mailto:ismahel.zero94@gmail.com?subject=Hey!)
