@@ -129,5 +129,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 ---
 ## 📫 How to reach me
+[![X](https://img.shields.io/badge/X-informational?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/ismahel_zero/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismahel-zero-1053b4228)
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&color=EA4335&logo=gmail&logoColor=white)](mailto:ismahel.zero94@gmail.com?subject=Hey!)
