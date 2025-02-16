@@ -69,6 +69,8 @@ Front-End Developer passionate about creating efficient and user-friendly web ap
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
+[![wakatime](https://wakatime.com/badge/user/b1fd15f4-70d4-403c-9a20-e5484e19434a.svg)](https://wakatime.com/@b1fd15f4-70d4-403c-9a20-e5484e19434a)
+
 **I'm an Early 🐤** 
 
 ```text
