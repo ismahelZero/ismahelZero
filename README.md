@@ -2,7 +2,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/ismahelZero) 
 
 ## About Me 👨‍💻
-Front-End Developer passionate about creating efficient and user-friendly web applications. Currently working on the Arbela project at RIGT, where I develop comprehensive customer-side, admin, and seller-side modules. I love turning complex problems into simple, beautiful, and intuitive solutions.
+Front-End Developer with a passion for crafting efficient, user-friendly web applications. I specialize in Vue.js, React, and TypeScript, transforming complex requirements into elegant, intuitive solutions.
+
+I'm committed to continuous improvement and clean architecture. My expertise spans multiple frontend frameworks, with a particular focus on TypeScript-based applications.
+
+I thrive in collaborative environments and maintain high code quality even under challenging project timelines. When I'm not coding, you can find me exploring new web technologies or contributing to open source projects.
 
 ## 💼 Skill Set
 
