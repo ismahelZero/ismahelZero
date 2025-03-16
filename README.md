@@ -67,7 +67,7 @@ I thrive in collaborative environments and maintain high code quality even under
 ### 🌍 Languages
 - Kurdish (Native)
 - English (Upper Intermediate)
-- Arabic (Elementary)
+- Arabic (Intermediate)
 
 ### 📊 Development Breakdown
 <!--START_SECTION:waka-->
