@@ -58,6 +58,7 @@ I thrive in collaborative environments and maintain high code quality even under
 ### 💼 Professional Experience
 #### Front-End Developer at RIGT (May 2024 - Present)
 - Developing the Arbela project's front-end architecture
+- Developing the RIGT Website Front-end and Back-end architecture
 - Implementing customer-side, admin, and seller-side modules
 - Working with multiple programming languages and frameworks
 - Maintaining high-quality code under challenging project timelines
@@ -73,7 +74,6 @@ I thrive in collaborative environments and maintain high code quality even under
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2048%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
