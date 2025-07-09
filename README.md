@@ -50,14 +50,15 @@ I thrive in collaborative environments and maintain high code quality even under
 <br>
 
 ### 💼 Professional Experience
-#### Front-End Developer at RIGT (May 2024 - Present)
+#### Front-End Developer at CAFFEINE (Jun 2025 - Present)
 - Developing the Arbela project's front-end architecture
 - Developing the RIGT Website Front-end and Back-end architecture
 - Implementing customer-side, admin, and seller-side modules
 - Working with multiple programming languages and frameworks
 - Maintaining high-quality code under challenging project timelines
 - Web Developer Internship at RIGT (2023)
-- Front-End Developer at RIGT (2024 - present)
+- Front-End Developer at RIGT (May 2024 - Jul 2025)
+- Front-End Developer at CAFFEINE (Jun 2025 - Present)
 
 ### 🌍 Languages
 - Kurdish (Native)
