@@ -67,8 +67,6 @@ I thrive in collaborative environments and maintain high code quality even under
 
 ### 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2024%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.84%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -124,7 +122,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 18:57:54 UTC
+ Last Updated on 02/01/2026 18:57:31 UTC
 <!--END_SECTION:waka-->
 
 ---
