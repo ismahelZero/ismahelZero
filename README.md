@@ -1,12 +1,11 @@
 # Hello, I'm ISMAHEL 👋 
 ![GitHub followers](https://img.shields.io/github/followers/ismahelZero) 
 
+
 ## About Me 👨‍💻
-Front-End Developer with a passion for crafting efficient, user-friendly web applications. I specialize in Vue.js, React, and TypeScript, transforming complex requirements into elegant, intuitive solutions.
+I'm a highly motivated <b>Lead Front-End Developer</b> with a passion for crafting efficient, user-friendly web applications. I specialize in the <b>Vue.js</b> and <b>React</b> ecosystems, transforming complex enterprise requirements into elegant, high-performing Single Page Applications (SPAs).
 
-I'm committed to continuous improvement and clean architecture. My expertise spans multiple frontend frameworks, with a particular focus on TypeScript-based applications.
-
-I thrive in collaborative environments and maintain high code quality even under challenging project timelines. When I'm not coding, you can find me exploring new web technologies or contributing to open source projects.
+My expertise spans migrating legacy systems, architecting complex multi-tier dashboards, and crafting breathtaking, fully immersive 3D web animations using <b>GSAP</b> and <b>Three.js</b>. I thrive in collaborative environments, leading cross-functional teams, and maintaining exceptional code quality even under challenging project timelines.
 
 ## 💼 Skill Set
 
@@ -49,23 +48,37 @@ I thrive in collaborative environments and maintain high code quality even under
 
 <br>
 
-### 💼 Professional Experience
-#### Front-End Developer at CAFFEINE (Jun 2025 - Present)
-- Developing the Arbela project's front-end architecture
-- Developing the RIGT Website Front-end and Back-end architecture
-- Implementing customer-side, admin, and seller-side modules
-- Working with multiple programming languages and frameworks
-- Maintaining high-quality code under challenging project timelines
-- Web Developer Internship at RIGT (2023)
-- Front-End Developer at RIGT (May 2024 - Jul 2025)
-- Front-End Developer at CAFFEINE (Jun 2025 - Present)
+## 💼 Professional Experience
+### Lead Front-End Developer @ CAFFEINE (Jun 2025 - Present)
+- Architected the migration of the MGR Admin Dashboard from a legacy Vue 2 MPA to a highly performant Vue 3 SPA.
+- Developed the fully immersive ABS web experience utilizing GSAP and Three.js for cutting-edge visual effects.
+- Built and launched the comprehensive Sencor Iraq e-commerce platform.
+- Championed UI/UX consistency, automated front-end testing, and performance optimization across all front-end initiatives.
 
-### 🌍 Languages
+
+### Front-End Developer @ RIGT (May 2024 - Jul 2025)
+- Designed and implemented complex customer, admin, and seller modules for the Arbela e-commerce project using Vue.js and TypeScript.
+- Spearheaded the front-end architecture for multiple critical systems (Eventy dashboard, SIM Distribution, Nass Pay).
+- Developed the complete RIGT corporate website integrating a Strapi headless CMS with full i18n support.
+- Engineered a proprietary library of reusable UI components to improve cross-team efficiency.
+
+
+### Administrative Officer @ Dlopay Baran Company (Jan 2022 - Oct 2023)
+- Managed diverse administrative tasks, precise data entry, and detailed business reporting.
+
+## 🚀 Featured Projects
+- <b>FPS Calculator:</b> Architected and developed a standalone personal web application from the ground up, managing all phases of the front-end lifecycle independently.
+- <b>ABS 3D Animated Website & Sencor Iraq:</b> Delivered a cutting-edge immersive web experience and launched a full-scale e-commerce platform.
+- <b>Enterprise Dashboards:</b> Built a suite of robust administrative tools including Pay-by-link for Nass Pay, Eventy management, SIM Distribution, and advanced CEO-level MGR analytics platforms.
+- <b>AI & IoT Waste Classifier:</b> Integrated real-time AI image classification with custom IoT hardware solutions to categorize physical waste materials automatically.
+
+
+## 🌍 Languages
 - Kurdish (Native)
 - English (Upper Intermediate)
 - Arabic (Intermediate)
 
-### 📊 Development Breakdown
+## 📊 Development Breakdown
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2050%20mins-blue?style=flat)
 
@@ -127,8 +140,8 @@ HTML                     1 repo              ██░░░░░░░░░�
  Last Updated on 23/02/2026 19:45:33 UTC
 <!--END_SECTION:waka-->
 
----
 ## 📫 How to reach me
+[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=globe&logoColor=white)](https://ismahelzero.dev)
 [![X](https://img.shields.io/badge/X-informational?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/ismahel_zero/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismahel-zero-1053b4228)
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&color=EA4335&logo=gmail&logoColor=white)](mailto:ismahel.zero94@gmail.com?subject=Hey!)
