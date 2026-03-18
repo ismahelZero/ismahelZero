@@ -80,7 +80,7 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ## 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -111,17 +111,15 @@ Sunday                   1142 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-TypeScript               55 mins             ███████████████████░░░░░░   76.65 % 
-JSON                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     13 mins             ████████████████░░░░░░░░░   62.12 % 
+TypeScript               8 mins              █████████░░░░░░░░░░░░░░░░   37.85 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 12 mins        █████████████████████████   100.00 % 
+WebStorm                 21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -137,7 +135,7 @@ C#                       2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 17/03/2026 19:40:08 UTC
+ Last Updated on 18/03/2026 19:35:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
