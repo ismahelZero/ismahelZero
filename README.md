@@ -22,7 +22,7 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 ### Framework
 <a href="https://github.com/ismahelZero">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,react&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,react,nextjs&perline=4" /> 
 </div>
 </a>
 
