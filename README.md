@@ -80,7 +80,7 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ## 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C692%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C692%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -111,13 +111,17 @@ Sunday                   1201 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 mins              ███████████████████████░░   92.64 % 
+Vue                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -133,7 +137,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2026 19:57:24 UTC
+ Last Updated on 24/04/2026 19:35:45 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
