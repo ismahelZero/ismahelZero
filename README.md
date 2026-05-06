@@ -80,7 +80,7 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ## 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C701%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C703%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -111,11 +111,11 @@ Sunday                   1350 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-Vue                      5 hrs 34 mins       ████████████████░░░░░░░░░   64.77 % 
-JavaScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Vue                      6 hrs               █████████████████░░░░░░░░   69.91 % 
+PHP                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-PHP                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
 WebStorm                 8 hrs 36 mins       █████████████████████████   100.00 % 
@@ -137,7 +137,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 20:06:26 UTC
+ Last Updated on 06/05/2026 20:17:27 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
