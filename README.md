@@ -111,15 +111,13 @@ Sunday                   1355 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-Vue                      25 mins             ████████████████████░░░░░   78.72 % 
-PHP                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -135,7 +133,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 19:50:22 UTC
+ Last Updated on 24/05/2026 19:53:21 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
