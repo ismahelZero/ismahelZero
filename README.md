@@ -80,45 +80,7 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ## 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C712%20hrs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.24%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3344 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌆 Daytime                7597 commits        ███████████████░░░░░░░░░░   60.16 % 
-🌃 Evening                1286 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-🌙 Night                  401 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2688 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Tuesday                  1724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                1926 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Thursday                 2103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Friday                   30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Saturday                 2802 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Sunday                   1355 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Baghdad
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Vue** 
 
@@ -133,7 +95,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 20:41:48 UTC
+ Last Updated on 28/05/2026 20:51:17 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
