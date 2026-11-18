@@ -9,10 +9,13 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # WakaTime now requires an OAuth access token for API requests.
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
