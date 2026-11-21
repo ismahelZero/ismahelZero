@@ -113,19 +113,41 @@ Sunday                   2628 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 36 mins        ███████████████████████░░   93.66 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 41 mins        █████████████████████████   98.18 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 mins (6.01%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 263,946 Input Tokens, 1,031 Output Tokens
+
+💵 $1.52 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +163,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 00:55:45 UTC
+ Last Updated on 21/11/2026 00:15:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
