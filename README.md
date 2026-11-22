@@ -80,16 +80,14 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ## 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C582%20hrs%2027%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C582%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4826 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌞 Morning                4827 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
 🌆 Daytime                14511 commits       ████████████████░░░░░░░░░   64.73 % 
 🌃 Evening                2489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 🌙 Night                  592 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
@@ -103,7 +101,7 @@ Wednesday                2921 commits        ███░░░░░░░░�
 Thursday                 3019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 Friday                   126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 Saturday                 6920 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
-Sunday                   2628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Sunday                   2629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 ```
 
 
@@ -113,41 +111,20 @@ Sunday                   2628 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        ███████████████████████░░   93.66 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript               1 hr 36 mins        █████████████████████░░░░   84.98 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 41 mins        █████████████████████████   98.18 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+WebStorm                 1 hr 52 mins        █████████████████████████   98.35 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 mins (6.01%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 263,946 Input Tokens, 1,031 Output Tokens
-
-💵 $1.52 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+Windows                  1 hr 43 mins        ███████████████████████░░   90.77 % 
+Linux                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +140,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 23:40:04 UTC
+ Last Updated on 22/11/2026 23:53:37 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
