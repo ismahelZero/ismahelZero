@@ -80,28 +80,28 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ## 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C582%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4827 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-🌆 Daytime                14511 commits       ████████████████░░░░░░░░░   64.73 % 
+🌞 Morning                4829 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌆 Daytime                14516 commits       ████████████████░░░░░░░░░   64.73 % 
 🌃 Evening                2489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 🌙 Night                  592 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3932 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Monday                   3939 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 Tuesday                  2872 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Wednesday                2921 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Thursday                 3019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 3019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Friday                   126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Saturday                 6920 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
-Sunday                   2629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Saturday                 6920 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Sunday                   2629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 
 
@@ -111,20 +111,20 @@ Sunday                   2629 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        █████████████████████░░░░   84.98 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               3 hrs 10 mins       █████████████████░░░░░░░░   68.36 % 
+Markdown                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 52 mins        █████████████████████████   98.35 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+WebStorm                 4 hrs 20 mins       ███████████████████████░░   93.34 % 
+Claude Code              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        ███████████████████████░░   90.77 % 
-Linux                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Linux                    2 hrs 55 mins       ████████████████░░░░░░░░░   62.90 % 
+Windows                  1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +140,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 23:53:37 UTC
+ Last Updated on 24/11/2026 04:10:39 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
