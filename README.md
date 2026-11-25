@@ -80,7 +80,7 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ## 📊 Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,7 +88,7 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ```text
 🌞 Morning                4829 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-🌆 Daytime                14516 commits       ████████████████░░░░░░░░░   64.73 % 
+🌆 Daytime                14519 commits       ████████████████░░░░░░░░░   64.73 % 
 🌃 Evening                2489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 🌙 Night                  592 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
@@ -96,11 +96,11 @@ My expertise spans migrating legacy systems, architecting complex multi-tier das
 
 ```text
 Monday                   3939 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  2872 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                2921 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Tuesday                  2875 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Wednesday                2921 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 Thursday                 3019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Friday                   126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Saturday                 6920 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Saturday                 6920 commits        ████████░░░░░░░░░░░░░░░░░   30.85 % 
 Sunday                   2629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 
@@ -111,36 +111,36 @@ Sunday                   2629 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-TypeScript               3 hrs 10 mins       █████████████████░░░░░░░░   68.36 % 
-Markdown                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript               3 hrs 39 mins       █████████████████░░░░░░░░   66.73 % 
+Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 20 mins       ███████████████████████░░   93.34 % 
-Claude Code              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+WebStorm                 5 hrs 10 mins       ████████████████████████░   94.34 % 
+Claude Code              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       ████████████████░░░░░░░░░   62.90 % 
-Windows                  1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
+Linux                    3 hrs 45 mins       █████████████████░░░░░░░░   68.51 % 
+Windows                  1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Vue                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Vue                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 24/11/2026 04:10:39 UTC
+ Last Updated on 25/11/2026 02:53:24 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
